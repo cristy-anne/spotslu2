@@ -1,10 +1,19 @@
 [
+    {
+    "id": 565,
+    "name": "Eco Park",
+    "imageUrl": "",
+    "price": 250,
+    "priceCurrency": "PHP",
+    "lat": 16.3548526,
+    "lng": 120.33922660000007
+  },
 {
     "id": 561,
     "name": "Pugo Adventure",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
     "price": 250,
-    "priceCurrency": "PHPA",
+    "priceCurrency": "PHP",
     "lat": 16.336675,
     "lng": 120.478815
   },
